@@ -9,5 +9,7 @@ import org.springframework.context.annotation.Import;
 class CatalogServiceApplicationTests {
 
     @Test
-    void contextLoads() {}
+    void contextLoads() {
+        assert true;
+    }
 }
